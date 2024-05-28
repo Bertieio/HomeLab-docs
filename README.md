@@ -49,3 +49,7 @@ NixOS
 ### Photo
 #### OS
 NixOS
+
+### GitLab
+#### OS
+NixOS
